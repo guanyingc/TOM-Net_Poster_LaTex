@@ -12,3 +12,5 @@ This code stores the LaTex source code for building the poster for TOM-Net (CVPR
 
 - Type `Make` to rebuild the poster.
 
+## More LaTex Poster Examples
+- [PS-FCN: A Flexible Learning Framework for Photometric Stereo (ECCV 2018)](https://github.com/guanyingc/PS-FCN_Poster_LaTex)
